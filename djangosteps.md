@@ -40,3 +40,6 @@ settings.py: ALLOWED_HOSTS = ['192.168.0.123']
 python manage.py runserver 192.168.0.123:8000
 
 ---
+
+2021.05.26
+
